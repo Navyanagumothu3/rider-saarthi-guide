@@ -66,7 +66,7 @@ Start local development server:
 
 npm run dev
 
-Open browser at -> http://localhost:5173 (sample)
+Open browser at → http://localhost:5173 (check terminal for actual port)
 
 Click through: Subscription → Claim → Payout → Fraud / Flagged Claim screen
 
@@ -91,3 +91,6 @@ Scrolls through README
 Demonstrates interactive prototype flow
 
 Explains fraud detection concept
+
+### Phase 1 Goal
+Build interactive frontend prototype showing subscription, claim, payout, and fraud detection simulation.
