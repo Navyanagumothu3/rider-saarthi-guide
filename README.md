@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Mar 20, 2026, 12_37_41 PM" src="https://github.com/user-attachments/assets/3d983bdf-1b2b-44bf-a5a0-6fac0b9663ac" /># RiderSaarthi AI – Income Protection for Delivery Partners 🏍️
+# RiderSaarthi AI – Income Protection for Delivery Partners 🏍️
 
 ## 🧠 What is this project?
 
