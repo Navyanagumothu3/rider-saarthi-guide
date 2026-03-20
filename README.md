@@ -1,4 +1,4 @@
-# RiderSaarthi AI – Income Protection for Delivery Partners 🏍️
+<img width="1536" height="1024" alt="ChatGPT Image Mar 20, 2026, 12_37_41 PM" src="https://github.com/user-attachments/assets/3d983bdf-1b2b-44bf-a5a0-6fac0b9663ac" /># RiderSaarthi AI – Income Protection for Delivery Partners 🏍️
 
 ## 🧠 What is this project?
 
@@ -44,7 +44,11 @@ Other features:
    - Low → ₹200  
    - Medium → ₹350  
    - High → ₹500  
-5. Fraud / Flagged claims screen demonstrates AI anomaly detection concept  
+5. Fraud / Flagged claims screen demonstrates AI anomaly detection concept
+   
+
+<img width="1536" height="1024" alt="ChatGPT Image Mar 20, 2026, 12_37_41 PM" src="https://github.com/user-attachments/assets/9e78fe50-b398-4757-b8a9-0b66195cb2dc" />
+
 
 ---
 
